@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&transparent&color=0096FF&height=100&section=header&text=Hi%20there%👋&fontSize=90&fontColor=72FFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&transparent&color=0096FF&height=100&section=header&text=Hi%40there%40👋&fontSize=90&fontColor=72FFFF" />
 <!--
 **jinsimpunch/jinsimpunch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
